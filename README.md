@@ -1,10 +1,10 @@
 # samayrakshat
 
-A submission to Ingenious Geeks 4.0 (2025) by Vivian Innovaters
+A submission to Ingenious Geeks 4.0 (2025) by Vivekian Innovaters
 
 This is a time management program made by group
 
-***Vivain Innovaters***
+***Vivekian Innovaters***
 
 # Notes
 
