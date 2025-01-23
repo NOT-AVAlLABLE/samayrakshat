@@ -4,7 +4,7 @@ A submission to Ingenious Geeks 4.0 (2025) by Vivian Innovaters
 
 This is a time management program made by group
 
-*Vivain Innovaters*
+***Vivain Innovaters***
 
 # Notes
 
