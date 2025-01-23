@@ -1,6 +1,6 @@
 # samayrakshat
 
-A submission to Ingenious Geeks 4.0 (2025) by Vivekian Innovaters
+A submission to Ingenious Geeks 4.0 (2025)
 
 This is a time management program made by group
 
